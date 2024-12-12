@@ -230,7 +230,7 @@ a:hover {
 
 .project {
     margin: 30px 100px;
-    height: 220px;
+    height: 200px;
     padding: 0px 6%;
     display: flex;
     justify-content: space-evenly;
@@ -239,7 +239,6 @@ a:hover {
     transition: background 0.5s ease-in-out;
     color: rgba(6,32,73,255);
     border: 1px solid black;
-    font-size: 20px;
 }
 
 .project-descr {
@@ -253,8 +252,8 @@ a:hover {
 }
 
 .project img {
-    height: 220px;
-    width: 220px;
+    height: 200px;
+    width: 200px;
     margin-left: 50px;
 }
 
